@@ -87,7 +87,7 @@ medium.com/@ggikko/2-entity%EB%A7%8C%EB%93%A4%EA%B3%A0-controller-junit-%ED%85%8
 medium.com/@ggikko/r2d2-project-%EC%A6%90%EA%B8%B0%EB%A9%B4%EC%84%9C-%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EA%B8%B0%EB%A1%9D%ED%95%B4%EB%B3%B4%EB%A0%A4%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-a81eedcd4915#.uytu17urs
 
 
-중간 중간에 작업했으나 블로그를 작성을 못한 부분이 많습니다. 이 부분에 대해서는 추후에 업데이트 계획 중입니다.
+중간 중간에 작업했으나 블로그를 작성을 못한 부분이 많습니다. 이 부분에 대해서는 추후에 업데이트 계획 중입니다
 
 # 만든이
 + 박지홍 email : ggikko@hotmail.com
